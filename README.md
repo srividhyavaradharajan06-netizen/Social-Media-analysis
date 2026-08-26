@@ -1,4 +1,5 @@
 Social Media Engagement Analytics
+
 Overview:
 
 This project explores a social media dataset comprising 5,000 posts across 19 features, including user demographics, content metadata, and engagement metrics. The primary objective is to understand what drives user engagement on social media platforms by analyzing likes, comments, shares, impressions, and watch time across different post types, categories, sentiments, and user demographics.
